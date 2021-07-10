@@ -1,3 +1,2 @@
-neat==0.4.1
 pygame==2.0.1
-WebOb==1.8.7
+neat-python==0.92
